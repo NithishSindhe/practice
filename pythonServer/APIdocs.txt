@@ -1,0 +1,5 @@
+APIs-
+
+GET /hi 
+
+response - "Hi i am Nithish"
